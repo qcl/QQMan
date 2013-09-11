@@ -1,2 +1,0 @@
-from QQManFrameView import QQManFrameView
-from QQManWebView import QQManWebView
